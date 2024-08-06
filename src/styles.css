@@ -1,7 +1,7 @@
 body {
     margin: 0;
     border: 0;
-    background: linear-gradient(to right, purple, blue);
+    background: linear-gradient(to right, rgb(255, 193, 139), pink);
 }
 
 *::before, *::after {
